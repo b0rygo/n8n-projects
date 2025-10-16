@@ -32,7 +32,11 @@ I’m learning and developing new automations regularly. This repository will gr
 Feel free to explore, contribute, or share feedback!
 
 **Getting Started**
--Clone the repository.
--Import the .json files into your n8n instance.
--Customize the workflows to fit your needs.
+
+- Clone the repository.
+
+- Import the .json files into your n8n instance.
+
+- Customize the workflows to fit your needs.
+
 Let’s automate the boring stuff! 🚀
