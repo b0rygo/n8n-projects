@@ -8,6 +8,7 @@ This is a collection of workflows, where I’m exploring and building powerful a
 - App integrations like Dropbox, Huggingface, Google Maps, Docker, AI.
 
 **Example Workflows**
+
 💻 Google_Map_Scraper
 Automatically extracts business data such as names, addresses, ratings, and contact details from Google Maps for lead generation or analysis.
 
