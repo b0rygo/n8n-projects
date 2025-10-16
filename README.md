@@ -28,9 +28,12 @@ A Telegram bot that converts voice messages into text using speech recognition, 
 
 **About the Project**
 
+
 I’m learning and developing new automations regularly. This repository will grow as I continue experimenting and building innovative workflows.
 
 Feel free to explore, contribute, or share feedback!
+
+
 
 **Getting Started**
 
